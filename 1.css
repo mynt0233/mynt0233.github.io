@@ -64,7 +64,13 @@ h4 {
   background-position: 50% 0;
   border-radius: 2px;
 }
-
+.nen2{
+    background-color: #F0E3EA;
+    background-attachment: fixed;
+    margin: 19px;
+  background-position: 50% 0;
+  border-radius: 2px;
+}
 a.navbar-brand {
   color:#4b4b4b!important;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.35);}
@@ -100,6 +106,10 @@ a.dropdown-item {
 .dropdown-item:focus, .dropdown-item:hover {
     color:  #f19598;
     text-decoration: none;
+}
+
+.others .card {
+    border: 10px solid rgba(204, 204, 204, 0.83);
 }
 
 .noidung{
