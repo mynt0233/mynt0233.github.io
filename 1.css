@@ -1,8 +1,13 @@
 *{margin: 0; padding: 0;}
+
 .formnhe {
     padding-top: 50px;
     padding-bottom: 50px;
-    font-family: 'Open Sans', sans-serif!important;
+} 
+
+.container.others {
+    padding-bottom: 30px;
+    padding-top: 30px;
 }
 
 span.gt {
@@ -115,6 +120,22 @@ a.dropdown-item {
 
 .others .card {
     border: 10px solid rgba(204, 204, 204, 0.83);
+}
+
+.card:hover:after {
+    background: rgba(0, 0, 0, 0);
+}
+
+.card:after {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.57);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    transition: 0.4s;
 }
 
 .noidung{
