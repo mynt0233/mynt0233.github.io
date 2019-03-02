@@ -261,14 +261,14 @@ a.dropdown-item {
 }
 
 .indesign {
-    width: 70%;
+    width: 60%;
     -moz-animation: indesign 8S ease-out;
     -webkit-animation: indesign 8S ease-out;
     background-color: rgb(164, 228, 231);
 }
 
 .sublime {
-    width: 68%;
+    width: 48%;
     -moz-animation: sublime 8S ease-out;
     -webkit-animation: sublime 8S ease-out;
     background-color: rgb(164, 228, 231);
