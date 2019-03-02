@@ -474,7 +474,7 @@ a.dropdown-item {
     }
  
     100% {
-        width: 60%;
+        width: 70%;
     };
 }
 @-webkit-keyframes indesign {
@@ -483,7 +483,7 @@ a.dropdown-item {
     }
  
     100% {
-        width: 60%;
+        width: 70%;
     };
 }
 
@@ -493,7 +493,7 @@ a.dropdown-item {
     }
  
     100% {
-        width: 90%;
+        width: 60%;
     };
 }
 @-webkit-keyframes sublime {
@@ -502,7 +502,7 @@ a.dropdown-item {
     }
  
     100% {
-        width: 90%;
+        width: 60%;
     };
 }
 
