@@ -206,8 +206,8 @@ a.dropdown-item {
     background-color: rgb(133, 176, 182);
 }
  
-.responsive {
-    width: 65%;
+.digital {
+    width: 45%;
     -moz-animation: digital 6S ease-out;
     -webkit-animation: digital 6S ease-out;
     background-color: rgb(164, 228, 231);
