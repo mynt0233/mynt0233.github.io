@@ -254,7 +254,7 @@ a.dropdown-item {
 }
 
 .illustrator {
-    width: 70%;
+    width: 75%;
     -moz-animation: illustrator 8S ease-out;
     -webkit-animation: illustrator 8S ease-out;
     background-color: rgb(133, 176, 182);
