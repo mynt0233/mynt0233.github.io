@@ -206,10 +206,10 @@ a.dropdown-item {
     background-color: rgb(133, 176, 182);
 }
  
-.digital {
-    width: 45%;
-    -moz-animation: digital 6S ease-out;
-    -webkit-animation: digital 6S ease-out;
+.responsive {
+    width: 65%;
+    -moz-animation: responsive 6S ease-out;
+    -webkit-animation: responsive 6S ease-out;
     background-color: rgb(164, 228, 231);
 }
  
@@ -295,13 +295,13 @@ a.dropdown-item {
 }
 
  
-@-moz-keyframes digital {
+@-moz-keyframes responsive {
     0% {
         width: 0px;
     }
  
     100% {
-        width: 45%;
+        width: 70%;
     };
 }
  
@@ -337,13 +337,13 @@ a.dropdown-item {
  
 
  
-@-webkit-keyframes digital {
+@-webkit-keyframes responsive {
     0% {
         width: 0px;
     }
  
     100% {
-        width: 45%;
+        width: 70%;
     };
 }
  
