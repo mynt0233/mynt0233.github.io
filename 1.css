@@ -207,7 +207,7 @@ a.dropdown-item {
 }
  
 .responsive {
-    width: 65%;
+    width: 45%;
     -moz-animation: responsive 6S ease-out;
     -webkit-animation: responsive 6S ease-out;
     background-color: rgb(164, 228, 231);
