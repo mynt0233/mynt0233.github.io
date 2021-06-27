@@ -214,7 +214,7 @@ a.dropdown-item {
 }
  
 .jquery {
-    width: 85%;
+    width: 55%;
     -moz-animation:jquery 6S ease-out;
     -webkit-animation: jquery 6S ease-out;
 }
@@ -311,7 +311,7 @@ a.dropdown-item {
     }
  
     100% {
-        width: 85%;
+        width: 55%;
     };
 }
 
@@ -353,7 +353,7 @@ a.dropdown-item {
     }
  
     100% {
-        width: 85%;
+        width: 55%;
     };
 }
 
