@@ -200,7 +200,7 @@ a.dropdown-item {
 }
  
 .html {
-    width: 70%;
+    width: 77%;
     -moz-animation: html 6S ease-out;
     -webkit-animation: html 6S ease-out;
     background-color: rgb(133, 176, 182);
@@ -290,7 +290,7 @@ a.dropdown-item {
     }
  
     100% {
-        width: 85%;
+        width: 77%;
     };
 }
 
@@ -331,7 +331,7 @@ a.dropdown-item {
     }
  
     100% {
-        width: 85%;
+        width: 77%;
     };
 }
  
