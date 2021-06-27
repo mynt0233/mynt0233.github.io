@@ -261,14 +261,14 @@ a.dropdown-item {
 }
 
 .indesign {
-    width: 65%;
+    width: 85%;
     -moz-animation: indesign 8S ease-out;
     -webkit-animation: indesign 8S ease-out;
     background-color: rgb(164, 228, 231);
 }
 
 .sublime {
-    width: 48%;
+    width: 85%;
     -moz-animation: sublime 8S ease-out;
     -webkit-animation: sublime 8S ease-out;
     background-color: rgb(164, 228, 231);
@@ -353,7 +353,7 @@ a.dropdown-item {
     }
  
     100% {
-        width: 60%;
+        width: 85%;
     };
 }
 
@@ -455,7 +455,7 @@ a.dropdown-item {
     }
  
     100% {
-        width: 70%;
+        width: 75%;
     };
 }
 @-webkit-keyframes illustrator {
@@ -464,7 +464,7 @@ a.dropdown-item {
     }
  
     100% {
-        width: 70%;
+        width: 75%;
     };
 }
 
@@ -483,7 +483,7 @@ a.dropdown-item {
     }
  
     100% {
-        width: 70%;
+        width: 85%;
     };
 }
 
