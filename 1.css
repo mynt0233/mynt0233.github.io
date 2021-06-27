@@ -207,14 +207,14 @@ a.dropdown-item {
 }
  
 .responsive {
-    width: 45%;
+    width: 55%;
     -moz-animation: responsive 6S ease-out;
     -webkit-animation: responsive 6S ease-out;
     background-color: rgb(164, 228, 231);
 }
  
 .jquery {
-    width: 55%;
+    width: 85%;
     -moz-animation:jquery 6S ease-out;
     -webkit-animation: jquery 6S ease-out;
 }
@@ -301,7 +301,7 @@ a.dropdown-item {
     }
  
     100% {
-        width: 40%;
+        width: 55%;
     };
 }
  
@@ -311,7 +311,7 @@ a.dropdown-item {
     }
  
     100% {
-        width: 60%;
+        width: 85%;
     };
 }
 
@@ -343,7 +343,7 @@ a.dropdown-item {
     }
  
     100% {
-        width: 40%;
+        width: 55%;
     };
 }
  
